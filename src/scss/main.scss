@@ -1,0 +1,6 @@
+@import "override-variables";// import ./_override-variables.scss
+@import "func";
+@import "bootstrap-custom";  // import ./_bootstrap.scss
+@import "../../Font-Awesome/scss/font-awesome";
+@import "custom";
+@import "bootstrap/theme";   // import <scss.sassOpts.includePaths>/bootstrap/_theme.scss
